@@ -1,0 +1,27 @@
+body
+        {
+            background-color: cornflowerblue;
+        }
+        nav a
+        {
+            color:rgb(180, 247, 93)
+        }
+        #kontainer1
+        {
+            border: 5px;
+            border-color: black;
+            background-color: aqua;
+            color: blue;
+        }
+        #kontainer1 #Image
+        {
+            margin-left: 300px;
+            margin-right: 300px;
+
+        }
+        #kontainer1 #Image img
+        {
+            width: 50%;
+        }
+
+        
